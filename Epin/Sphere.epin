@@ -1,0 +1,5 @@
+Dimension : 2
+Formula : sum(Xi^2)
+Range : -100 ~ 100
+Position :
+*1 10201: 101,101,0,0,0

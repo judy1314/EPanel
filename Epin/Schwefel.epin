@@ -1,0 +1,4 @@
+dimension : 1
+Formula : 418.9829-sum(Xi*(sin((|Xi|)^0.5)))
+Range : -500 ~ 500
+Position :

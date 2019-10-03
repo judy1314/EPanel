@@ -1,0 +1,4 @@
+Dimension : 2
+Formula : 20+sum(Xi^2-10*cos(2*Pi*Xi))
+Range : -15 ~ 15
+Position :
